@@ -1,0 +1,128 @@
+{
+  "nav": {
+    "about": "About",
+    "services": "Services",
+    "contact": "Contact",
+    "testimonials": "Testimonials"
+  },
+  "hero": {
+    "title": "Experts in water well drilling, rehabilitation and building stabilization",
+    "subtitle": "Professional solutions with 10-year structural warranty",
+    "cta_quote": "Request a quote",
+    "cta_contact": "Contact us"
+  },
+  "about": {
+    "title": "About Bâti Forages",
+    "description": "With recognized expertise, Bâti Forages operates nationwide for your drinking water drilling, well rehabilitation and damaged building stabilization projects. Our qualified teams guarantee sustainable solutions that comply with the strictest standards.",
+    "experience": "Years of experience",
+    "warranty": "10-year warranty",
+    "insurance": "Full insurance",
+    "values_title": "Our values",
+    "quality": "Quality",
+    "quality_desc": "Interventions carried out according to the strictest standards",
+    "security": "Safety",
+    "security_desc": "Full compliance with safety protocols",
+    "durability": "Durability",
+
+    "durability_desc": "Sustainable solutions with 10-year guarantee",
+    "gallery_title": "Our Gallery",
+    "gallery": {
+      "project1_desc": "Detailed description of the first project",
+      "project2_desc": "Detailed description of the second project",
+      "project3_desc": "Detailed description of the third project",
+      "project4_desc": "Detailed description of the fourth project",
+      "project5_desc": "Detailed description of the fifth project",
+      "project6_desc": "Detailed description of the sixth project"
+    },
+    "close": "Close"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Complete technical solutions for your projects",
+    "drilling_title": "Drilling & Water",
+    "drilling_services": [
+      "Well cleaning",
+      "Air-lift and development",
+      "Inspection camera",
+      "Well relining",
+      "Pump installation",
+      "Aquifer development"
+    ],
+    "stabilization_title": "Building Stabilization",
+    "stabilization_services": [
+      "Micropiles",
+      "Reinforced concrete beams",
+      "Foundation treatment",
+      "Water network repair",
+      "Soil damage expertise",
+      "10-year warranty"
+    ],
+    "technical_title": "Technical Interventions",
+    "technical_services": [
+      "Preventive maintenance",
+      "Structure diagnosis",
+      "Damage expertise",
+      "Soil analysis",
+      "Site monitoring",
+      "Technical consulting"
+    ],
+    "learn_more": "Learn more"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Request your free quote",
+    "form_name": "Full name",
+    "form_phone": "Phone",
+    "form_email": "Email",
+    "form_city": "City",
+    "form_project": "Project type",
+    "form_message": "Your message",
+    "form_submit": "Send",
+    "project_drilling": "Drilling / Well",
+    "project_stabilization": "Building stabilization",
+    "project_maintenance": "Maintenance",
+    "project_other": "Other",
+    "phone": "Phone",
+    "mobile": "Mobile",
+    "email": "Email",
+    "address": "Address",
+    "address_full": "33150 Cenon, France",
+    "whatsapp": "WhatsApp",
+    "call": "Call"
+  },
+  "testimonials": {
+    "title": "They trust us",
+    "subtitle": "Customer testimonials",
+    "reviews": [
+      {
+        "name": "Mr. Dupont",
+        "location": "Bordeaux",
+        "text": "Fast and professional intervention for our well rehabilitation. Competent team and careful work.",
+        "rating": 5
+      },
+      {
+        "name": "Mrs. Martin",
+        "location": "Libourne",
+        "text": "Excellent service for stabilizing our house. The micropiles were installed on time and the result is impeccable.",
+        "rating": 5
+      },
+      {
+        "name": "SARL Construction Company",
+        "location": "Mérignac",
+        "text": "Trusted partner for our construction sites. Professionalism and compliance with standards. Highly recommended.",
+        "rating": 5
+      }
+    ],
+    "certifications_title": "Certifications & Guarantees",
+    "decennial_warranty": "10-Year Warranty",
+    "full_insurance": "Full Insurance",
+    "certified": "Certified Professional"
+  },
+  "footer": {
+    "description": "Expert in drilling, well rehabilitation and building stabilization for over 15 years.",
+    "quick_links": "Quick links",
+    "legal": "Legal notice",
+    "privacy": "Privacy policy",
+    "rights": "All rights reserved"
+  }
+}

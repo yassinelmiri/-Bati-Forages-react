@@ -1,0 +1,127 @@
+{
+  "nav": {
+    "about": "À propos",
+    "services": "Services",
+    "contact": "Contact",
+    "testimonials": "Témoignages"
+  },
+  "hero": {
+    "title": "Experts en forage, réhabilitation de puits et stabilisation de bâtiments",
+    "subtitle": "Solutions professionnelles garanties 10 ans",
+    "cta_quote": "Demander un devis",
+    "cta_contact": "Nous contacter"
+  },
+  "about": {
+    "title": "À propos de Bâti Forages",
+    "description": "Forte d'une expertise reconnue, Bâti Forages intervient sur l'ensemble du territoire pour vos projets de forage d'eau potable, réhabilitation de puits et stabilisation de bâtiments sinistrés. Nos équipes qualifiées vous garantissent des solutions durables et conformes aux normes les plus strictes.",
+    "experience": "Années d'expérience",
+    "warranty": "Garantie décennale",
+    "insurance": "Assurance complète",
+    "values_title": "Nos valeurs",
+    "quality": "Qualité",
+    "quality_desc": "Interventions réalisées selon les normes les plus strictes",
+    "security": "Sécurité",
+    "security_desc": "Respect total des protocoles de sécurité",
+    "durability": "Durabilité",
+    "durability_desc": "Solutions pérennes garanties 10 ans",
+    "gallery_title": "Notre Galerie",
+    "gallery": {
+      "project1_desc": "Description détaillée du premier projet",
+      "project2_desc": "Description détaillée du deuxième projet",
+      "project3_desc": "Description détaillée du troisième projet",
+      "project4_desc": "Description détaillée du quatrième projet",
+      "project5_desc": "Description détaillée du cinquième projet",
+      "project6_desc": "Description détaillée du sixième projet"
+    },
+    "close": "Fermer"
+  },
+  "services": {
+    "title": "Nos Services",
+    "subtitle": "Des solutions techniques complètes pour vos projets",
+    "drilling_title": "Forages & Eau",
+    "drilling_services": [
+      "Nettoyage de puits",
+      "Air-lift et développement",
+      "Caméra d'inspection",
+      "Rechemisage de puits",
+      "Installation de pompes",
+      "Développement d'aquifère"
+    ],
+    "stabilization_title": "Stabilisation de Bâtiments",
+    "stabilization_services": [
+      "Micropieux",
+      "Longrines béton armé",
+      "Traitement des fondations",
+      "Réparation réseaux EU/EP",
+      "Expertise sinistre sols",
+      "Garantie décennale"
+    ],
+    "technical_title": "Interventions Techniques",
+    "technical_services": [
+      "Maintenance préventive",
+      "Diagnostic de structure",
+      "Expertise sinistre",
+      "Analyse de sol",
+      "Suivi de chantier",
+      "Conseil technique"
+    ],
+    "learn_more": "En savoir plus"
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Demandez votre devis gratuit",
+    "form_name": "Nom complet",
+    "form_phone": "Téléphone",
+    "form_email": "Email",
+    "form_city": "Ville",
+    "form_project": "Type de projet",
+    "form_message": "Votre message",
+    "form_submit": "Envoyer",
+    "project_drilling": "Forage / Puits",
+    "project_stabilization": "Stabilisation bâtiment",
+    "project_maintenance": "Maintenance",
+    "project_other": "Autre",
+    "phone": "Téléphone",
+    "mobile": "Mobile",
+    "email": "Email",
+    "address": "Adresse",
+    "address_full": "33150 Cenon, France",
+    "whatsapp": "WhatsApp",
+    "call": "Appeler"
+  },
+  "testimonials": {
+    "title": "Ils nous font confiance",
+    "subtitle": "Témoignages de nos clients",
+    "reviews": [
+      {
+        "name": "M. Dupont",
+        "location": "Bordeaux",
+        "text": "Intervention rapide et professionnelle pour la réhabilitation de notre puits. Équipe compétente et travail soigné.",
+        "rating": 5
+      },
+      {
+        "name": "Mme Martin",
+        "location": "Libourne",
+        "text": "Excellente prestation pour la stabilisation de notre maison. Les micropieux ont été installés dans les délais et le résultat est impeccable.",
+        "rating": 5
+      },
+      {
+        "name": "Société SARL Construction",
+        "location": "Mérignac",
+        "text": "Partenaire de confiance pour nos chantiers. Professionnalisme et respect des normes. Je recommande vivement.",
+        "rating": 5
+      }
+    ],
+    "certifications_title": "Certifications & Garanties",
+    "decennial_warranty": "Garantie Décennale",
+    "full_insurance": "Assurance Complète",
+    "certified": "Certifié Professionnel"
+  },
+  "footer": {
+    "description": "Expert en forage, réhabilitation de puits et stabilisation de bâtiments depuis plus de 15 ans.",
+    "quick_links": "Liens rapides",
+    "legal": "Mentions légales",
+    "privacy": "Politique de confidentialité",
+    "rights": "Tous droits réservés"
+  }
+}
